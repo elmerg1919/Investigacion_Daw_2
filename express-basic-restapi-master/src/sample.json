@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "nombre": "Jose Carlos",
+        "apellido": "Portillo Suarez",
+        "carnet": "PS201500",
+        "carrera": "Tecnico en Ingeneria en Sistemas"
+    },
+    {
+        "id": "2",
+        "nombre": "Karla Elizabeth",
+        "apellido": "Garcia Lopez",
+        "carnet": "GL187050",
+        "carrera": "Licenciatura en Comunicaciones"
+    },
+    {
+        "id": "3",
+        "nombre": "Roberto Antonio",
+        "apellido": "Perez Hernandez",
+        "carnet": "PH195006",
+        "carrera": "Ingeneria Industrial"
+    }
+]
